@@ -43,7 +43,7 @@ if (name[0] == name[0] .toUpperCase ()) {
 // logic c
 // }
 
-let age = 28
+let age = 28;
 
 if ( age >=25) {
     console.log('Yay! You can rent a car!')
